@@ -1,0 +1,17 @@
+public class Main {
+  public static void main(String[] args) {
+    if (x = y + z || y < X + z || Z<x+y){
+System.out.println("Verdadeiro. Trata-se de um triangulo"); 
+}else
+System.out.println("Falso. Não é um triângulo");
+if (x == y && x == Z){
+System.out.println("1");
+else if(x == y || X == Z)
+{
+System.out.println("2"); }else  
+System.out.println("3");
+
+
+    
+  }
+}
